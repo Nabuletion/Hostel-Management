@@ -1,0 +1,23 @@
+.infoitm {
+    width: 120px;
+    height: 65px;
+    background-size: cover;
+}
+
+.style-btn {
+    width: 180px;
+}
+.footer{
+    position: fixed;
+    bottom: 0px !important;
+}
+.bg-darks{
+    background-color: grey !important;
+}
+.cRights{
+    position: fixed !important;
+    bottom: 0;
+    width: 100%;
+    height: 60px;   /* Height of the footer */
+    background: #6cf;
+}
